@@ -32,11 +32,7 @@ structure)?
 8) What is the difference between a class variable and an instance variable?
 
 # U4: PyGame
-1) What is a class? What is a method?
-2) What are the advantages of OOP – where is information stored?
-3) What are the pillars of OOP?
-4) Explain each pillar.
-5) What is the .super() method? What does it do?
-6) How is inheritance in OOP beneficial? Explain Using terms Parent Class and Child Class.
-7) What is Composition in OOP? How does this help with Organization?
-8) What is the difference between a class variable and an instance variable?
+1) What key stages are there in a game loop? Explain.
+2) How do Surfaces (.surf) and Rectangles (.rect) work together when creating a sprite?
+3) What is a Sprite? What are Sprite Groups? Why might it be benificial to place sprites in sprite groups?
+4) What is a USEREVENT? What are they used for?
