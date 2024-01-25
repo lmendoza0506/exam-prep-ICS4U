@@ -63,5 +63,3 @@
 
 # pygame.event.get() - returns list of events in the event queue
 # pygame.event.get_pressed() - returns dict of event in event queue
-
-
